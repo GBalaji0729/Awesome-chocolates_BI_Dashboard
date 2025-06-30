@@ -62,17 +62,18 @@ Awesome Chocolates is a 2-year-old company that operates in six countries and ha
 **Insights:**
 
  
-- Products like *Organic Choco Syrup* and *Smooth Silky Salty* are both high in sales and profitability, suggesting they are core products with loyal customers or strong market fit.
+
+- Products like Organic Choco Syrup and Smooth Silky Salty are both high in sales and profitability, suggesting they are core products with loyal customers or strong market fit.
 - our top-selling people are highlighted.
 - The high revenue ($141M) and strong profit margin indicate that the business is financially healthy with efficient cost management. Still, we can observe there is a dip in the overall sales as compared to the previous year.
-- India, being the top region (40m) indicates strong local demand. However, **Canada and the UK** show very low sales.
-- Also indicates underperforming products and salespeople.
+- India, being the top region (40m) indicates strong local demand. However, Canada and the UK show very low sales.
+- Also indicates underperforming products and salespeople
 
 **suggestions :**
 
-- Increase marketing spend and promotions for best-selling and high-profit products like **Organic Choco Syrup**, **Smooth Silky Salty**, and **Almond Choco**.  These products can drive both volume and profits.
-- Provide mentorship programs where top performers (e.g., *Ponnan*) guide lower-performing staff.
-- Conduct market research and launch regional marketing campaigns in **Canada** and the **UK**.
+- Increase marketing spend and promotions for best-selling and high-profit products like Organic Choco Syrup, Smooth Silky Salty, and Almond Choco.  These products can drive both volume and profits.
+- Provide mentorship programs where top performers (e.g., Ponnan) guide lower-performing staff.
+- Conduct market research and launch regional marketing campaigns in Canada and the UK.
 - Run targeted promotions to increase sales in underperforming months.
 
 
